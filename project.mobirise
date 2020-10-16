@@ -58,7 +58,10 @@
     "versionPublish": "4.12.1",
     "screenshot": "screenshot.png",
     "PWA": {
-      "enabled": false
+      "enabled": true,
+      "name": "Eco",
+      "icon": "@PROJECT_PATH@/assets/images/icon-512x512_2.png",
+      "themeColor": "#5c9554"
     }
   },
   "pages": {
